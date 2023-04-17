@@ -5,7 +5,7 @@ using namespace std;
 //funcao que ira receber o valor dos dados e retornar a area dos triangulos
 double CalcularAreaTri(double a, double b, double c){
     double p = (a + b + c)/2;
-    return sqrt(p * (p - a) * (p - b) * (p - c));
+    return sqrt(p * (p - a) * (p - b) * (p - c));//TESTE
 }
 
 int main() {
