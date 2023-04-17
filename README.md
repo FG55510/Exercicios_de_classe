@@ -1,1 +1,1 @@
-# Exercicios_de_classe
+# Exercicios_de_class
