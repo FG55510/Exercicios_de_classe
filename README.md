@@ -45,7 +45,7 @@ Programa que mostra a area do triangulo utilizando o tamanho dos lados para o us
 ✔️ Utiliza classes
 
 ## Distribuição
-(https://github.com/Fernanda5510/Exercicios_de_classe/blob/main/AreaTriangulo(Classe).cpp)
+(https://github.com/Fernanda5510/Exercicios_de_classe/blob/TRIANGULO_CLASSE/AreaTriangulo(Classe).cpp)
 
 ## Pré-requisitos ⚠️    
 acesso a compilador de c++.
@@ -54,6 +54,7 @@ acesso a compilador de c++.
 Apenas aplique o codigo em um compilador de c++ :)
 
 ## Testes realizados
+![Programa_Funcionando](https://user-images.githubusercontent.com/130413112/234126802-0577aa64-4989-4805-a55f-8177f4d3a6aa.png)
 
 
 ## Banco de Dados 🗂️
